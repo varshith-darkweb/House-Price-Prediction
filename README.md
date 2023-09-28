@@ -1,7 +1,7 @@
 # House-Price-Prediction
 This project involves creating a machine learning model that aims to predict house prices based on the features provided in the dataset. The goal is to accurately predict the prices of houses using the given features.
 
-##Exploratory Data Analysis
+**Exploratory Data Analysis**
 
 Descriptive Statistics
 
@@ -11,7 +11,7 @@ Feature Analysis and Data Visualization
 
 Missing Values Checking
 
-##Data Processing
+**Data Processing**
 
 Missing Value Handling
 
@@ -19,7 +19,7 @@ Create New Additional Feature from Feature in Dataset
 
 Categorical Encoding
 
-##House Price Prediction Model
+**House Price Prediction Model**
 
 Random Forest
 
@@ -29,4 +29,4 @@ LightGBM
 
 Neural Networks
 
-##Prediction
+**Prediction**
