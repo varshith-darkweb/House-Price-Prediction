@@ -30,3 +30,14 @@ This project involves creating a machine learning model that aims to predict hou
 4.Neural Networks
 
 **Prediction**
+
+#Installation Dependencies
+1.pip install numpy
+
+2.pip install pandas
+
+3.pip install matplotlib
+
+4.pip install seaborn
+
+PS: Please do not forget to drop a star if you like it!
