@@ -3,30 +3,30 @@ This project involves creating a machine learning model that aims to predict hou
 
 **Exploratory Data Analysis**
 
-Descriptive Statistics
+1.Descriptive Statistics
 
-Correlation Analysis
+2.Correlation Analysis
 
-Feature Analysis and Data Visualization
+3.Feature Analysis and Data Visualization
 
-Missing Values Checking
+4.Missing Values Checking
 
 **Data Processing**
 
-Missing Value Handling
+1.Missing Value Handling
 
-Create New Additional Feature from Feature in Dataset
+2.Create New Additional Feature from Feature in Dataset
 
-Categorical Encoding
+3.Categorical Encoding
 
 **House Price Prediction Model**
 
-Random Forest
+1.Random Forest
 
-XGBoost (XGB)
+2.XGBoost (XGB)
 
-LightGBM
+3.LightGBM
 
-Neural Networks
+4.Neural Networks
 
 **Prediction**
