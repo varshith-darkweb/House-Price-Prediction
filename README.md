@@ -31,7 +31,8 @@ This project involves creating a machine learning model that aims to predict hou
 
 **Prediction**
 
-#Installation Dependencies
+# Installation Dependencies
+
 1.pip install numpy
 
 2.pip install pandas
